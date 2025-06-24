@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import React from 'react'
 
 export default function Contact() {
 
@@ -142,11 +143,11 @@ export default function Contact() {
                   <div>
                     <h4 style={{color: '#1a365d', fontWeight: '600', marginBottom: '0.5rem'}}>電話</h4>
                     <p style={{color: '#2d3748', margin: 0, fontSize: '1.1rem'}}>
-                      <a href="tel:090-8335-0325" style={{
+                      <a href="tel:06-7777-2982" style={{
                         color: '#3182ce',
                         textDecoration: 'none',
                         fontWeight: '500'
-                      }}>090-8335-0325</a>
+                      }}>06-7777-2982</a>
                     </p>
                     <p style={{color: '#4a5568', margin: 0, fontSize: '0.9rem', marginTop: '0.25rem'}}>
                       平日 9:00 - 18:00
